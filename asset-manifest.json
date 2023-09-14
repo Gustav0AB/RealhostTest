@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RealhostTest/static/css/main.c93962d4.css",
+    "main.js": "/RealhostTest/static/js/main.98808348.js",
+    "index.html": "/RealhostTest/index.html",
+    "main.c93962d4.css.map": "/RealhostTest/static/css/main.c93962d4.css.map",
+    "main.98808348.js.map": "/RealhostTest/static/js/main.98808348.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c93962d4.css",
+    "static/js/main.98808348.js"
+  ]
+}
